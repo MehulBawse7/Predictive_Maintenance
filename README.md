@@ -42,7 +42,7 @@ Both notebooks treat the 26 outputs as numeric prediction targets. The reported 
 
 ## Running the notebooks
 
-The notebooks were developed for Google Colab and currently contain Google Drive mounting and data-loading cells. To run them locally, install the required Python packages and change the data-loading cells to read the CSV from the project directory.
+The notebooks load `chiller_predictive_maintenance_dataset.csv` directly from the project directory; Install the Python packages listed below before running the notebooks.
 
 The notebooks use Python libraries including pandas, NumPy, Matplotlib, Seaborn, scikit-learn, and TensorFlow/Keras.
 
