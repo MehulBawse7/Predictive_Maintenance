@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+scikit-learn
+joblib
+shap
+fastapi
+uvicorn[standard]
+python-multipart
